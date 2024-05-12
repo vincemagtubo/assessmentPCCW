@@ -1,2 +1,2 @@
 # assessmentPCCW
-Test examination for PCCS career opportunity.
+Test examination for PCCW career opportunity.
